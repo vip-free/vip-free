@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:slug",
+      "destination": "/api/short/:slug",
+      "permanent": false
+    }
+  ]
+}
